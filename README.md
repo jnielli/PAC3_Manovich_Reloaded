@@ -5,11 +5,16 @@
 En aquest repositori hi trobareu dos assajos sobre la hibridació de programari utilitzat en el dia a dia de molts estudiants.
 <br />En aquest espai hi he tractat:
 
-### [Notion](/Notion.md)
+## [Notion](/Notion.md)
 Plataforma de gestió de tasques per excel·lència per petites i grans empreses.
 
-### [Photomath](/Photomath.md)
+<br />
+
+## [Photomath](/Photomath.md)
 Photomath és la calculadora per excel·lència dels estudiants.
+
+<br />
+<br />
 
 ## Bibliografia i webgrafia
 
