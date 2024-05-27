@@ -1,2 +1,6 @@
 # PAC3_Manovich_Reloaded
-Repositori per contenir els assajos sobre les hibridacions en programari actual
+**Autor: Joan Niell**
+
+## Introducció
+En aquest repositori hi trobareu dos assajos sobre la hibridació de programari utilitzat en el dia a dia de molts estudiants.
+Aquests són 
