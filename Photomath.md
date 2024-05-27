@@ -16,11 +16,11 @@ Un cop extreta la informació de la imatge i resolta la operació, Photomath, é
 
 Aqui és quan sorgeix el gran dubte sobre si aquesta aplicació és té una afectació positiva o negativa que pot fer per els estudiants. Un estudi indica que:
 >Els estudiants son més crítics amb l’aplicació i poden contrastar les seves respostes gràcies a aquestes, però alhora ens preocupa que aquest us, els hi transmeti una inèrcia cap a la facilitat de resolució i no al desenvolupament del seu coneixement matemàtic.
-><br /> &nbsp;&nbsp;<cite> - Kelecsenyi, Klara & Osztényiné Krauczi, Éva & Zita, Diána. (2021). Photomath : A blessing or a Curse. Gradus. 8. 197-204. 10.47833/2021.1.CSC.004. <cite/>
+><br /> &nbsp;&nbsp;*<cite> - Kelecsenyi, Klara & Osztényiné Krauczi, Éva & Zita, Diána. (2021). Photomath : A blessing or a Curse. Gradus. 8. 197-204. 10.47833/2021.1.CSC.004. <cite/>*
 
 Un altre comenta que:
 > Per ser eficient acadèmicament, cal que els docents estiguin dotats i capacitats per acompanyar als estudiants a fer-ne un us de consulta general i no de resolució ràpida.
-> <br />&nbsp;&nbsp; <cite> - Hernández, Irán & Zúñiga, William & Calle, Oscar & Herrera, Gustavo & Mazaira Rodríguez, Zahily & Gualpa, Edison. (2023). Photomath como alternativa para mejorar la calidad de proceso de enseñanza – aprendizaje en el área de matemática en los estudiantes de 1ro de bachillerato. Ciencia Latina Revista Científica Multidisciplinar. 7. 4105-4132. 10.37811/cl_rcm.v7i3.6468. <cite/>
+> <br />&nbsp;&nbsp; *<cite> - Hernández, Irán & Zúñiga, William & Calle, Oscar & Herrera, Gustavo & Mazaira Rodríguez, Zahily & Gualpa, Edison. (2023). Photomath como alternativa para mejorar la calidad de proceso de enseñanza – aprendizaje en el área de matemática en los estudiantes de 1ro de bachillerato. Ciencia Latina Revista Científica Multidisciplinar. 7. 4105-4132. 10.37811/cl_rcm.v7i3.6468. <cite/>*
 
 ### Conclusions
 Tot i ser una eina digital molt útil, gràcies a la seva hibridació amb el processament d'imatge, i emprada pel sector educatiu, no hem de deixar de dependre del nostre coneixement tot fent us d'una màquina "intel·ligent". Com totes les eines digitals, sempre que en fem un bon us, seran benvingudes. En certs moments, Photomath, pot ser molt útil per entendre i resoldre operacions complexes, sempre i quan, en els altres moments, en els que haguem d'aprendre a fer-ho, no en fem la vista grossa i ho utilitzem de manera correcta.
